@@ -7,7 +7,7 @@ end
 def division(num1, num2)
 end
 
-def multiplication(num1, num2)
+def multiplication(4, 30)
 end
 
 def modulo(num1, num2)
