@@ -4,7 +4,7 @@ end
 def subtraction(num1, num2)
 end
 
-def division(num1, num2)
+def division(50, 2)
 end
 
 def multiplication(4, 30)
